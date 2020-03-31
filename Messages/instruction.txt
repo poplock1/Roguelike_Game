@@ -1,0 +1,30 @@
+################################################################################
+#                                                                              #
+#                                                                              #
+#   INSTRUCTION:                               COLLECTABLES:                   #
+#                                                                              #
+#   w - move up                                A - apple (+ 5 HP)              #
+#   s - move down                              B - banana (+ 10 HP)            #
+#   a - move left                              G - grapes (+ 15 HP)            #
+#   d - move right                             S - shoes (+ 25 armor)          #
+#   q - quit                                   J - jacket (+ 50 armor)         #
+#                                              K - knife ( 10 attack )         #
+#                                              X - axe ( 20 attack )           #
+#                                              S - sword ( 40 attack )         #
+#                                                                              #
+#   Story:                                                                     #
+#   You are a crazy monkey that just escape jungle and found itself in         #
+#   a town controlled by evil wizard. Only thing he wants is to kill anyone    #
+#   who dont know the random numbers he generated in his head. Your            #
+#   challange is to face the evil wizard and save the town. There is a long    #
+#   way ahead of you, remember to eat food and gear up during your journey.    #
+#   Good luck!                                                                 #
+#                                                                              #
+#                                                                              #
+#                                                                              #
+#                                                                              #
+#                                                                              #
+#                                                                              #
+#   (press q to quit)                                                          #
+#                                                                              #
+################################################################################

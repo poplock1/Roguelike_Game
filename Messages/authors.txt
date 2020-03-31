@@ -1,0 +1,30 @@
+################################################################################
+#                                                                              #
+#     GMKP GAME CENTRE                                                         #
+#                                                                              #
+#     Authors:                                                                 #
+#                                                                              #
+#  Poducers: Krystian Plich & Grzegorz Matyja                                  #
+#                                                                              #
+#  Art Directors: Krystian Plich & Grzegorz Matyja                             #
+#                                                                              #
+#  Technical Directors: Krystian Plich & Grzegorz Matyja                       #
+#                                                                              #
+#  Level designers: Krystian Plich & Grzegorz Matyja                           #
+#                                                                              #
+#  Character designers: Krystian Plich & Grzegorz Matyja                       #
+#                                                                              #
+#  Story designers: Krystian Plich & Grzegorz Matyja                           #
+#                                                                              #
+#  Senior Programmers: Krystian Plich & Grzegorz Matyja                        #
+#                                                                              #
+#                                                                              #
+#                                                                              #
+#     And special thanks to whole coding group:                                #
+#                                                                              #
+#  Sabina & Krystian Plich & Grzegorz Matyja                                   #
+#                                                                              #
+#                                                                              #
+#  (press q to quit)                                                           #
+#                                                                              #
+################################################################################

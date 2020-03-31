@@ -2,9 +2,9 @@ def key_pressed():
     import sys
 
     try:
-        import tty, termios
+        import tty
+        import termios
     except ImportError:
-    # Probably Windows.
         try:
             import msvcrt
         except ImportError:
